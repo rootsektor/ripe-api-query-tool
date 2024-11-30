@@ -25,7 +25,7 @@ The **RIPE API Query Tool** is a versatile command-line utility designed to inte
 
 - **Search RIPE Database**: Perform full-text searches on the RIPE Database.
 - **Field Filtering**: Extract and display only the fields you're interested in.
-- **CIDR Conversion**: Convert IP ranges (`inetnum`) to CIDR notation for easier network management.
+- **CIDR Conversion**: Convert IP ranges (`inetnum`) to CIDR notation
 - **Multiple Output Formats**:
   - **Plain Text**: Simple and straightforward output.
   - **Table**: Structured tabular format for better readability.
@@ -45,7 +45,7 @@ The **RIPE API Query Tool** is a versatile command-line utility designed to inte
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/rootsektor-de/ripe-api-query-tool.git
+git clone https://github.com/rootsektor/ripe-api-query-tool.git
 cd ripe-api-query-tool
 ```
 
